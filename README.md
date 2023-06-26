@@ -1,2 +1,1 @@
-# meme-generator
-# Built using React
+# meme-generator (React)
